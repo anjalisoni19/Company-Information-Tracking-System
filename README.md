@@ -13,7 +13,7 @@ CITS serves as a centralized hub for maintaining essential company and employee 
 
 ### Employee Files
 
-**Address History**: Keep track of employees' residential details for seamless communication and information transfer.
+- **Address History**: Keep track of employees' residential details for seamless communication and information transfer.
 - **Benefits**: Reward outstanding performance with a range of benefits, including leaves, salary increments, and additional allowances.
 - **Evaluation**: Monitor employee performance through structured evaluation processes, ensuring continuous improvement.
 - **Warning**: Timely warnings and notifications for late attendance, unapproved leave, or incomplete tasks keep employees on track.
