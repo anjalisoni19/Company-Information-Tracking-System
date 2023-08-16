@@ -1,5 +1,3 @@
-Certainly! Here's the content in Markdown format that you can directly copy and paste into your `readme.md` file:
-
 ```markdown
 # Company Information Tracking System (CITS) 📊
 
@@ -54,4 +52,3 @@ CITS serves as a centralized hub for maintaining essential company and employee 
 CITS is your partner in managing HR tasks efficiently, ensuring your organization thrives with organized information and informed decision-making. 🚀
 ```
 
-Just copy and paste the above Markdown code into your `readme.md` file, and it will render as the desired engaging content with emojis.
